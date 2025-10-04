@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:stable-bookworm
 
 # Copy static website files
 COPY . /usr/share/nginx/html/
