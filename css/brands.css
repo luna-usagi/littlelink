@@ -638,5 +638,5 @@ button:hover {
 .button-fansly {
 	--button-text: #ffffff;
 	--button-background: #4b97f0;
-	--button-border: 1px solid #FFFFFF;
+	/* background-color: #4b97f0; */
 }

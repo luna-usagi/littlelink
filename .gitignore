@@ -1,3 +1,5 @@
 .DS_Store
 .idea
 .devcontainer
+local_ref/
+docker/
